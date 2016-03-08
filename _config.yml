@@ -1,7 +1,7 @@
 name: seinihons
 favicon: null
 layout_spectrum: 0.6931622617412359
-typography_spectrum: 0.20765818795189261
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
